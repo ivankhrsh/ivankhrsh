@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Ivan Khoroshylov
+
+- [Website](ivankhrsh.vercel.app)
+- [GitHub](https://github.com/ivankhrsh)
+- [LinkedIn](https://www.linkedin.com/in/ivan-khoroshylov-4287481b0/)
+
 <!--
 **ivankhrsh/ivankhrsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
