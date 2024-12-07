@@ -2,7 +2,7 @@
 
 I'm Ivan Khoroshylov
 
-- [Website](ivankhrsh.vercel.app)
+- [Website](https://www.khrsh.com/) 
 - [GitHub](https://github.com/ivankhrsh)
 - [LinkedIn](https://www.linkedin.com/in/ivan-khoroshylov-4287481b0/)
 
